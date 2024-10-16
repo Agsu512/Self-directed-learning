@@ -1,3 +1,4 @@
-파이썬
-C programming
-Java
+파이썬(python is hard.)
+C programming is good.
+I didn't learn Java.
+
